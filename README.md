@@ -1,4 +1,5 @@
 # Kaggle_Mnist
+CS1807-U201815687-王玺越
 Mnist手写体识别
 
 AlexNet 通过AlexNet修改网络参数 用来训练 Mnist手写体
